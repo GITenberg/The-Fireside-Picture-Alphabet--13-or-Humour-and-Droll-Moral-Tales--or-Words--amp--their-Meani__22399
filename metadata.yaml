@@ -1,0 +1,28 @@
+_repo: The-Fireside-Picture-Alphabet--13-or-Humour-and-Droll-Moral-Tales--or-Words--amp--their-Meani__22399
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Andrew, John
+    birthdate: 1815
+    deathdate: 1875
+    gutenberg_agent_id: '25310'
+    url: http://www.gutenberg.org/2009/agents/25310
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2007-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22399'
+  lccn: '21017589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers (Primary)'
+- !lcc 'PE'
+title: "The Fireside Picture Alphabet\r\nor Humour and Droll Moral Tales; or Words\
+  \ & their Meanings Illustrated"
+url: http://www.gutenberg.org/ebooks/22399
